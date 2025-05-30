@@ -1,3 +1,7 @@
+[caches]
+  [caches.images]
+    dir = ':cacheDir/images'
+
 theme = "ananke"
 baseURL = 'https://itsxiaobai.github.io'
 languageCode = 'en-us'
