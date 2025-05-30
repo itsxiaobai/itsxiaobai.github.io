@@ -2,6 +2,7 @@ theme = "ananke"
 baseURL = 'https://itsxiaobai.github.io'
 languageCode = 'zh-tw'
 title = '小白的 blog'
+theme = 'lotusdocs'
 
 [module]
     [[module.imports]]
