@@ -6,4 +6,4 @@ draft: false
 
 Hello World
 
-![](https://i.imgur.com/ldg9VM2.gif)
+好不容易把 Hugo 搞到 GitHub 上了（長嘆一口氣）
