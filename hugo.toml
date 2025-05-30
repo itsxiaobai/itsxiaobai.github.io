@@ -2,3 +2,11 @@ theme = "ananke"
 baseURL = 'https://itsxiaobai.github.io'
 languageCode = 'zh-tw'
 title = 'My New Hugo Site'
+
+[module]
+    [[module.imports]]
+        path = "github.com/colinwilson/lotusdocs"
+        disable = false
+    [[module.imports]]
+        path = "github.com/gohugoio/hugo-mod-bootstrap-scss/v5"
+        disable = false
