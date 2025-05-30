@@ -1,7 +1,7 @@
 theme = "ananke"
 baseURL = 'https://itsxiaobai.github.io'
 languageCode = 'zh-tw'
-title = 'My New Hugo Site'
+title = '小白的 blog'
 
 [module]
     [[module.imports]]
